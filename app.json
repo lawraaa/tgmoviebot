@@ -15,7 +15,7 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/josprojects/tgmoviebot",
+    "website": "https://github.com/lawraaa/tgmoviebot",
     "repository": "https://github.com/lawraaa/tgmoviebot",
     "env": {
         "BOT_TOKEN": {
